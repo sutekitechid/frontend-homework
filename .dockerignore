@@ -1,0 +1,10 @@
+node_modules
+apps/spmi/node_modules
+apps/spmi/.nuxt
+apps/spmi/.output
+apps/spmi/dist
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+*.log

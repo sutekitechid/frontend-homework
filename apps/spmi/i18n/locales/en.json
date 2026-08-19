@@ -4,10 +4,10 @@
       "eyebrow": "Frontend Homework",
       "title": "Implement an SPMI Feature from Figma",
       "description": "Build an application feature based on the provided design and ensure it is properly integrated into this application.",
-        "design_title": "Design Reference",
-        "design_description": "Use the following Figma design as the reference for the feature you will implement.",
-        "figma_mcp_hint": "Use Figma MCP to inspect the design.",
-        "open_figma": "Open design in Figma",
+      "design_title": "Design Reference",
+      "design_description": "Use the following Figma design as the reference for the feature you will implement.",
+      "figma_mcp_hint": "Use Figma MCP to inspect the design.",
+      "open_figma": "Open design in Figma",
       "steps_title": "Steps",
       "steps": {
         "repository": "Understand the repository's contents, structure, technologies, conventions, and existing implementation patterns.",
@@ -85,5 +85,37 @@
     "password_required": "Password is required",
     "forgot_password": "Forgot password?",
     "submit": "Sign in"
+  },
+  "pelaksanaan": {
+    "breadcrumb": {
+      "root": "SPMI",
+      "process": "SPMI Process",
+      "current": "Implementation",
+      "home": "Home"
+    },
+    "title": "Implementation",
+    "subtitle": "SPMI implementation activities",
+    "filter": {
+      "unit_label": "Unit",
+      "unit_all": "All Units",
+      "period_label": "Period",
+      "period_placeholder": "Select period"
+    },
+    "table": {
+      "unit": "Unit",
+      "audit": "Audit Name",
+      "instrument": "Accreditation Body Instrument",
+      "filling_time": "Answer Filling Period",
+      "progress": "Answer Filling Progress",
+      "action": "Action",
+      "view": "View",
+      "indicator_filled": "{filled}/{total} indicators filled",
+      "complete": "Complete"
+    },
+    "state": {
+      "loading": "Loading implementation data...",
+      "error": "Failed to load implementation data.",
+      "empty": "No implementation data for this filter."
+    }
   }
 }
