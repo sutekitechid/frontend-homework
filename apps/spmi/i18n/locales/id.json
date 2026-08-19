@@ -4,10 +4,10 @@
       "eyebrow": "Frontend Homework",
       "title": "Implementasi Fitur SPMI dari Figma",
       "description": "Kerjakan fitur aplikasi berdasarkan desain yang disediakan. Pastikan hasil implementasi terintegrasi dengan baik ke dalam aplikasi ini.",
-        "design_title": "Desain Referensi",
-        "design_description": "Gunakan desain Figma berikut sebagai acuan untuk fitur yang akan diimplementasikan.",
-        "figma_mcp_hint": "Keywords: Figma MCP",
-        "open_figma": "Buka desain di Figma",
+      "design_title": "Desain Referensi",
+      "design_description": "Gunakan desain Figma berikut sebagai acuan untuk fitur yang akan diimplementasikan.",
+      "figma_mcp_hint": "Keywords: Figma MCP",
+      "open_figma": "Buka desain di Figma",
       "steps_title": "Tahapan Pengerjaan",
       "steps": {
         "repository": "Pahami isi, struktur, teknologi, konvensi, dan pola implementasi yang sudah tersedia di repository.",
@@ -85,5 +85,37 @@
     "password_required": "Kata sandi wajib diisi",
     "forgot_password": "Lupa kata sandi?",
     "submit": "Masuk"
+  },
+  "pelaksanaan": {
+    "breadcrumb": {
+      "root": "SPMI",
+      "process": "Proses SPMI",
+      "current": "Pelaksanaan",
+      "home": "Beranda"
+    },
+    "title": "Pelaksanaan",
+    "subtitle": "Kegiatan pelaksanaan SPMI",
+    "filter": {
+      "unit_label": "Unit",
+      "unit_all": "Semua Unit",
+      "period_label": "Periode",
+      "period_placeholder": "Pilih periode"
+    },
+    "table": {
+      "unit": "Unit",
+      "audit": "Nama Audit",
+      "instrument": "Instrumen Lembaga Akreditasi",
+      "filling_time": "Waktu Pengisian Jawaban",
+      "progress": "Progres Pengisian Jawaban",
+      "action": "Aksi",
+      "view": "Lihat",
+      "indicator_filled": "{filled}/{total} indikator terisi",
+      "complete": "Selesai"
+    },
+    "state": {
+      "loading": "Memuat data pelaksanaan...",
+      "error": "Data pelaksanaan tidak dapat dimuat.",
+      "empty": "Tidak ada data pelaksanaan untuk filter ini."
+    }
   }
 }
